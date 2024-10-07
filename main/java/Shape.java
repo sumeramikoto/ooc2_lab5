@@ -1,6 +1,6 @@
 abstract class Shape {
-    public double x;
-    public double y;
+    private double x;
+    private double y;
 
     public Shape(double x, double y) {
         this.x = x;
